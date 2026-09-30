@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://toptiersilver.com",
+      "name": "Top Tier Silver AI Infrastructure Bundle",
+      "description": "High-efficiency multi-agent architecture and deployment frameworks for B2B enterprises. Formulated on a strict one-agent, one-task micro-system configuration.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Top Tier Silver"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "url": "https://toptiersilver.com",
+        "priceCurrency": "USD",
+        "lowPrice": "497.00",
+        "highPrice": "4997.00",
+        "offerCount": "2",
+        "offers": [
+          {
+            "@type": "Offer",
+            "@id": "https://toptiersilver.com",
+            "name": "Silver DIY Blueprint Bundle",
+            "description": "Digital download of full architectural manuals, shell-level script profiles, and stateless environment configurations.",
+            "price": "497.00",
+            "priceCurrency": "USD",
+            "priceValidUntil": "2027-12-31",
+            "itemCondition": "https://schema.org",
+            "availability": "https://schema.org",
+            "url": "https://toptiersilver.com#diy-bundle"
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://toptiersilver.com",
+            "name": "Silver Done-For-You Implementation Package",
+            "description": "Complete hands-on deployment. We build out your sandboxed runtimes, isolate local environment paths, and integrate your proportional cost watchdogs.",
+            "price": "4997.00",
+            "priceCurrency": "USD",
+            "priceValidUntil": "2027-12-31",
+            "itemCondition": "https://schema.org",
+            "availability": "https://schema.org",
+            "url": "https://toptiersilver.com#dfy-package"
+          }
+        ]
+      }
+    }
+  ]
+}
