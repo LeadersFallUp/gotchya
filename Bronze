@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Top Tier Silver | B2B Autonomous Multi-Agent Engineering</title>
+    <meta name="description" content="Deploy structured, air-gapped multi-agent colonies to run enterprise operations on autopilot. Choose between DIY Engine Blueprints or Done-For-You implementation.">
+    <link rel="canonical" href="https://toptiersilver.com">
+    
+    <!-- Injection of Structured Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Top Tier Silver Bundle",
+      "description": "Dual-sourced architectural blueprints and execution frameworks for multi-agent B2B systems.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Top Tier Silver"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "offerCount": "2",
+        "offers": [
+          {
+            "@type": "Offer",
+            "name": "Silver DIY Blueprint Bundle",
+            "category": "Software Architecture Manual",
+            "price": "497.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org"
+          },
+          {
+            "@type": "Offer",
+            "name": "Silver DFY Implementation Package",
+            "category": "Enterprise Automation Service",
+            "price": "4997.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org"
+          }
+        ]
+      }
+    }
+    </script>
+</head>
+<body>
+
+    <!-- Main Navigation Header establishing the Parent Brand -->
+    <header>
+        <nav>
+            <a href="https://toptiersilver.com" rel="home">Top Tier Silver</a>
+        </nav>
+    </header>
+
+    <!-- Main Semantic Container for Core Semantic Extraction -->
+    <main>
+        <article>
+            <header>
+                <h1>B2B Autonomous System Infrastructure</h1>
+                <p>Eliminate organizational chaos. Replace unstable macro-swarms with hardwired, micro-task agent colonies built for enterprise scale.</p>
+            </header>
+
+            <!-- Pillar 1: The Core Value Proposition / Offer Division -->
+            <section id="offers">
+                <h2>Select Your Execution Velocity</h2>
+                
+                <!-- DIY Offer Block -->
+                <div class="offer-card" id="diy-bundle">
+                    <h3>The Silver Do-It-Yourself (DIY) Bundle</h3>
+                    <p>Access the pure intelligence layer. This package delivers the complete architectural blueprints, multi-tab PowerShell environment profiles, and stateless node connection manuals.</p>
+                    <ul>
+                        <li>Proprietary Multi-Agent Governance Manual</li>
+                        <li>Pre-configured Terminal Environment Schemas</li>
+                        <li>Stateless Model Context Protocol (MCP) Interface Guides</li>
+                    </ul>
+                    <p>Fulfillment: Immediate Digital Asset Download.</p>
+                </div>
+
+                <!-- DFY Offer Block -->
+                <div class="offer-card" id="dfy-package">
+                    <h3>The Silver Done-For-You (DFY) Package</h3>
+                    <p>Zero operational friction. We take over execution labor to construct, test, and deploy a secure, localized multi-agent engine customized to your exact backend rules.</p>
+                    <ul>
+                        <li>Full Sandbox Configuration & Local Infrastructure Isolation</li>
+                        <li>Custom Micro-Agent Behavioral Programming</li>
+                        <li>Proportional Cost Watchdog Integration</li>
+                    </ul>
+                    <p>Fulfillment: Managed Phase Deployment (Subject to Cohort Waiting List).</p>
+                </div>
+            </section>
+
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Top Tier Silver. All Rights Reserved. Private backend systems monitored via Conico Core Security Operations.</p>
+    </footer>
+
+</body>
+</html>
